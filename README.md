@@ -60,9 +60,9 @@ Atualmente, pretendo seguir carreira como analista de Segurança da Informação
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiDev005&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDev005&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=GuiDev005&theme=tokyonight"/>
 </p>
+
 
 
 ## 🌐 Onde me encontrar
@@ -78,6 +78,7 @@ Atualmente, pretendo seguir carreira como analista de Segurança da Informação
     <img src="https://img.shields.io/badge/YouTube-Dev%20Geads%20%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
 
 <!--
 **GuiDev005/GuiDev005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
